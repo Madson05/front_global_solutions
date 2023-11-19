@@ -1,0 +1,78 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+
+}
+
+
+header{
+  background-color: #E44723;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logos{
+  display: flex;
+}
+
+.logos img{
+  width: 200px;
+  
+  margin: 30px;
+}
+
+section{
+  display: flex;
+  align-items: center;
+}
+
+section .card-result{
+  width: 156em;
+  height: 13em;
+  border-radius: 2em;
+  background-color: #CCC;
+  display: flex;
+  flex-direction: row;
+  padding: 2em;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2em;
+}
+
+.doenca{
+  display: flex;
+  align-items: center;
+
+}
+section .card-result .doenca img{
+  width: 6em;
+  margin-right: 2em;
+
+}
+
+h1{
+  font-size: 3em;
+  text-align: center;
+  margin: 1em;
+}
+
+section button{
+  width: 20em;
+  padding: 1.5em;
+  border-radius: 3em;
+  background-color: #E44723;
+  color: #FFF;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 1.5em;
+}
+
+h3,
+h4{
+  font-size: 2em;
+  margin: 1em;
+}
