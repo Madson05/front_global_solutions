@@ -20,9 +20,9 @@ header{
 }
 
 .logos img{
-  width: 200px;
+  width: 100px;
   
-  margin: 30px;
+  margin: 10px;
 }
 
 section{
@@ -31,8 +31,8 @@ section{
 }
 
 section .card-result{
-  width: 156em;
-  height: 13em;
+  width: 75em;
+  height: 5em;
   border-radius: 2em;
   background-color: #CCC;
   display: flex;
@@ -49,30 +49,30 @@ section .card-result{
 
 }
 section .card-result .doenca img{
-  width: 6em;
+  width: 3em;
   margin-right: 2em;
 
 }
 
 h1{
-  font-size: 3em;
+  font-size: 2em;
   text-align: center;
   margin: 1em;
 }
 
 section button{
-  width: 20em;
-  padding: 1.5em;
+  width: 12em;
+  padding: 2em;
   border-radius: 3em;
   background-color: #E44723;
   color: #FFF;
   font-weight: bold;
   cursor: pointer;
-  font-size: 1.5em;
+  font-size: 0.5em;
 }
 
 h3,
 h4{
-  font-size: 2em;
+  font-size: 1em;
   margin: 1em;
 }
